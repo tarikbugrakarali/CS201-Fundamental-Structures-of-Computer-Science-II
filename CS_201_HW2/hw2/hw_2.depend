@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606839370 source:c:\users\asus\desktop\cs 201 hw2\hw_2\hw2.cpp
+	<iostream>
+	"hw2.h"
+	<ctime>
+
+1606833245 c:\users\asus\desktop\cs 201 hw2\hw_2\hw2.h
+	<iostream>
+
+1606926376 source:c:\users\asus\desktop\cs 201 hw2\hw2\hw2.cpp
+	<iostream>
+	<ctime>
+	<bits/stdc++.h>
+

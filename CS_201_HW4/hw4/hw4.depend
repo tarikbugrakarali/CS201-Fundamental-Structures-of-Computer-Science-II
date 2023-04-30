@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1609527878 source:c:\users\asus\desktop\hw4\hw4\city.cpp
+	"City.h"
+	<string>
+	<iostream>
+	<iomanip>
+
+1609524089 c:\users\asus\desktop\hw4\hw4\city.h
+	<string>
+
+1609531144 source:c:\users\asus\desktop\hw4\hw4\flightmap.cpp
+	"FlightMap.h"
+	<bits/stdc++.h>
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+
+1609528118 c:\users\asus\desktop\hw4\hw4\flightmap.h
+	<string>
+	"City.h"
+
+1609531124 source:c:\users\asus\desktop\hw4\hw4\stack.cpp
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"Stack.h"
+
+1609531124 c:\users\asus\desktop\hw4\hw4\stack.h
+	<string>
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+

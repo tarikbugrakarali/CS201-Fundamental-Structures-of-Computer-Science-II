@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1608117021 source:c:\users\asus\desktop\cs 201 hw2\simplelibrarysystem\simplelibrarysystem.cpp
+	"SimpleLibrarySystem.h"
+	<iostream>
+	<stdexcept>
+	<string>
+	<iomanip>
+
+1608115874 source:c:\users\asus\desktop\cs 201 hw2\simplelibrarysystem\simplestudent.cpp
+	"SimpleStudent.h"
+	<string>
+	<iostream>
+	<iomanip>
+
+1608115861 c:\users\asus\desktop\cs 201 hw2\simplelibrarysystem\simplestudent.h
+	<string>
+
+1608117107 c:\users\asus\desktop\cs 201 hw2\simplelibrarysystem\simplelibrarysystem.h
+	<string>
+	"SimpleStudent.h"
+
+1608117057 source:c:\users\asus\desktop\cs 201 hw2\simplelibrarysystem\main.cpp
+	"SimpleLibrarySystem.h"
+	<iostream>
+
+1608117021 source:c:\users\asus\desktop\hw3-part a\simplelibrarysystem\simplelibrarysystem.cpp
+	"SimpleLibrarySystem.h"
+	<iostream>
+	<stdexcept>
+	<string>
+	<iomanip>
+
+1608117107 c:\users\asus\desktop\hw3-part a\simplelibrarysystem\simplelibrarysystem.h
+	<string>
+	"SimpleStudent.h"
+
+1608115861 c:\users\asus\desktop\hw3-part a\simplelibrarysystem\simplestudent.h
+	<string>
+
+1608115874 source:c:\users\asus\desktop\hw3-part a\simplelibrarysystem\simplestudent.cpp
+	"SimpleStudent.h"
+	<string>
+	<iostream>
+	<iomanip>
+

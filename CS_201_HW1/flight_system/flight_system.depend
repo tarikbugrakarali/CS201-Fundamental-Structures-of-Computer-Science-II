@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1605725240 source:c:\users\asus\desktop\hw_flightsystem\flight_system\flight.cpp
+	"Flight.h"
+	<iostream>
+
+1605725364 c:\users\asus\desktop\hw_flightsystem\flight_system\flight.h
+
+1605726937 source:c:\users\asus\desktop\hw_flightsystem\flight_system\reservation.cpp
+	"Reservation.h"
+	<iostream>
+	<string>
+
+1605727184 c:\users\asus\desktop\hw_flightsystem\flight_system\reservation.h
+	"Flight.h"
+
+1605728104 source:c:\users\asus\desktop\hw_flightsystem\flight_system\reservationsystem.cpp
+	"ReservationSystem.h"
+	"Flight.h"
+	"Reservation.h"
+	<iostream>
+	<string>
+
+1605728138 c:\users\asus\desktop\hw_flightsystem\flight_system\reservationsystem.h
+	"Flight.h"
+	"Reservation.h"
+	<iostream>
+
+1605630097 source:c:\users\asus\desktop\hw_flightsystem\flight_system\main.cpp
+	<iostream>
+	"ReservationSystem.h"
+
